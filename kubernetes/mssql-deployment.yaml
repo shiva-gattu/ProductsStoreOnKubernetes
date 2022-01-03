@@ -30,7 +30,7 @@ spec:
         env:
         - name: ACCEPT_EULA
           value: "Y"
-        - name: SA_PASSWORD
+        - name: Karuna121a_PASSWORD
           value: "Sh!v@121a"
         volumeMounts:
         - name: mssql-persistent-storage
