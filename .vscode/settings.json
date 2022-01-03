@@ -1,3 +1,4 @@
 {
-    "docker.defaultRegistryPath": "houssemdocker"
+    "docker.defaultRegistryPath": "karuna121",
+    "DockerRun.DisableDockerrc": true
 }
